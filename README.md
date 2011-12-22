@@ -1,12 +1,12 @@
 What is an OIL Machine
 ======================
 
- - Contains several registers with arbitrary-integers, and programs consisiting of sequences of one instruction
+ - Contains several registers with arbitrary-integers, and programs consisting of sequences of one instruction
  - Instruction used is "subtract and branch if zero" (SBZ). `sbz x y l` is equivalent to
 
 > x -= y;
-  if(x == 0)
-     goto l;
+> if(x == 0)
+>    goto l;
 
 See http://en.wikipedia.org/wiki/One_instruction_set_computer
 
