@@ -10,11 +10,12 @@ What is an OIL Machine
 
  - See http://en.wikipedia.org/wiki/One_instruction_set_computer
 
-How to Use
+Guide
 ==========
 
+ - Main documentation in oil.clj
  - macros.clj defines various helpers that expand into primitive sequences of sbz instructions
- - Follow the examples in oil_programs.clj
+ - Examples in oil_programs.clj
 
 Notes
 =====
