@@ -21,4 +21,4 @@ Notes
 =====
 
 Written as part of a project for Computational Discrete Mathematics
-at CMU in December 2010. Development led to the discovery of a bug in Clojure's basic arithmetic.
+at CMU in December 2010. Development led to the discovery of a bug in Clojure's basic arithmetic. ( https://groups.google.com/g/clojure/c/1IF11i-B0oE/m/EIU31liH6H0J )
